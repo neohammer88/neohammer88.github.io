@@ -94,8 +94,8 @@ nav .logo{
 }
 .user-img{
     width: 70%;
-    max-width: 300px;
-    position: relative;
+    max-width: 350px;
+    position: absolute;
     right: 13%;
     bottom: 0;
 }
