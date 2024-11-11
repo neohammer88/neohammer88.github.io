@@ -95,7 +95,7 @@ nav .logo{
 .user-img{
     width: 70%;
     max-width: 300px;
-    position: absolute;
+    position: relative;
     right: 13%;
     bottom: 0;
 }
